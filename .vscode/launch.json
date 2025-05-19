@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:haydenevans-saga}",
+            "name": "Debug haydenevans-saga",
+            "program": "${workspaceFolder:haydenevans-saga}/.build/debug/haydenevans-saga",
+            "preLaunchTask": "swift: Build Debug haydenevans-saga"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:haydenevans-saga}",
+            "name": "Release haydenevans-saga",
+            "program": "${workspaceFolder:haydenevans-saga}/.build/release/haydenevans-saga",
+            "preLaunchTask": "swift: Build Release haydenevans-saga"
+        }
+    ]
+}

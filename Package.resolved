@@ -1,0 +1,78 @@
+{
+  "originHash" : "98d8ed04e0ad124973b34cb4d867373c966c6354cd2e28411b48daf9368b6593",
+  "pins" : [
+    {
+      "identity" : "parsley",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/loopwerk/Parsley",
+      "state" : {
+        "revision" : "ad35091c7a790f04fc5a912c8bde8963eba753d2",
+        "version" : "0.9.1"
+      }
+    },
+    {
+      "identity" : "pathkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kylef/PathKit",
+      "state" : {
+        "revision" : "3bfd2737b700b9a36565a8c94f4ad2b050a5e574",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "saga",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/loopwerk/Saga",
+      "state" : {
+        "revision" : "a9b1165b3db3f125454926b78cca02e61016a9aa",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "sagaparsleymarkdownreader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/loopwerk/SagaParsleyMarkdownReader",
+      "state" : {
+        "revision" : "9605b14aa43e32eec454d2dff26bcaf95a1a1a93",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "sagaswimrenderer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/loopwerk/SagaSwimRenderer",
+      "state" : {
+        "revision" : "b6186c767689768c5d1efc21b169947ede16c1d0",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "spectre",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kylef/Spectre.git",
+      "state" : {
+        "revision" : "26cc5e9ae0947092c7139ef7ba612e34646086c7",
+        "version" : "0.10.1"
+      }
+    },
+    {
+      "identity" : "swift-cmark-gfm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stackotter/swift-cmark-gfm",
+      "state" : {
+        "revision" : "7ec44e7384793e507cf046336aef68586719a24e",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "swim",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/robb/Swim",
+      "state" : {
+        "revision" : "a0943e6f3cb5751ee7b69ed43a33613ea67d0c6a",
+        "version" : "0.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
